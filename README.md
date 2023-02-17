@@ -1,51 +1,38 @@
-<h1>End-to-end Data Platform </h1>
+<h1>Data Platform  </h1>
 
 <h2>Description</h2>
-Create a Spark Application to perform sentiment analysis on tweets, and populate the sentiment
+This project will involve in architecturing data platform of an ecommerce company named SoftCart that applied hybrid architecture, with some its databases on premises and on cloud
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Apache Spark</b> 
-- <b>Diskpart</b>
+- <b>MySQL</b> 
+- <b>MongoDB</b>
+- <b>IBM Db2 on Cloud</b>
+- <b>PostgreSQL</b>
+- <b>Hadoop</b>   
+- <b>Apache Spark</b>
+- <b>IBM Cognos Analytics</b>  
+- <b>Airflow</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
-<h2>Pre-requisite</h2>
+<h2>Processes</h2>
 
-<p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
+1. [OLTP Database](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+2. [NoSQL Data Repository](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+3. [Data Warehousing](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+4. [Data Analytic and Visualization](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+5. [ETL & Data Pipelines](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+6. [Big Data Analytic with Spark](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+
+<!--
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
  ```diff
 - text in red
 + text in green
