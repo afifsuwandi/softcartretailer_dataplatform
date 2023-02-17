@@ -21,7 +21,6 @@ This project will involve in architecturing data platform of an ecommerce compan
 
 <h2>Processes</h2>
 
-Launch the utility: <br/>
 1. [OLTP Database](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/OLTP%20Database)
 2. [NoSQL Data Repository](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/NoSQL%20Data%20Repository)
 3. [Data Warehousing](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/Data%20Warehousing)
