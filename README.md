@@ -22,12 +22,12 @@ This project will involve in architecturing data platform of an ecommerce compan
 <h2>Processes</h2>
 
 Launch the utility: <br/>
-1. [OLTP Database](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
-2. [NoSQL Data Repository](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
-3. [Data Warehousing](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
-4. [Data Analytic and Visualization](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
-5. [ETL & Data Pipelines](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
-6. [Big Data Analytic with Spark](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
+1. [OLTP Database](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/OLTP%20Database)
+2. [NoSQL Data Repository](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/NoSQL%20Data%20Repository)
+3. [Data Warehousing](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/Data%20Warehousing)
+4. [Data Analytic and Visualization](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/Data%20Analytic%20and%20Visualization)
+5. [ETL & Data Pipelines](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/ETL%20%26%20Data%20Pipelines)
+6. [Big Data Analytic with Spark](https://github.com/afifsuwandi/softcartretailer_dataplatform/blob/main/Big%20Data%20Analytic%20with%20Spark)
 
 <!--
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
