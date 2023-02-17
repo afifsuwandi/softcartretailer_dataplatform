@@ -1,6 +1,0 @@
-<h1>Overview</h1>
-OLTP database is generally used to handle every day business transactions of an organization like a bank or a super market chain. OLTPdatabases can be write heavy or may have a balanced read/write load.
-
-
-<h2>Description</h2>
-This project will involve in architecturing data platform of an ecommerce company named SoftCart that applied hybrid architecture, with some its databases on premises and on cloud
